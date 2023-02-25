@@ -1,0 +1,31 @@
+<?php
+
+// override core en language system validation or define your own en language validation message
+return [
+    'all_product'=>'All Product.',
+    'all_thrift'=>'All Thrift.',
+    'thrift_creation_stop'=>'Thrift creation process is currently stopped.',
+    'user_no_payment_method'=>'Your payment method not available. Please provide.',
+    'product_not_active'=>'Product is not active.',
+    'thrift_create_success'=>'Thrift created successfully.',
+    'thrift_create_error'=>'Error! Thrift creation failed.',
+    'thrift_join_sucess'=>'You joined in this Thirft.',
+    'thrift_not_found'=>'No thrift found.',
+    'already_joined_thrift'=>'You have already joined this Thrift',
+    'all_member_joined' =>'All members joined.',
+    'all_thrift'=>'All Thrifts.',
+    'thrift_invitation_sucess'=>'{0, number} Email invitation sent successfully.',
+    'thrift_invitation_error'=>'Invitation not sent. Please try again.',
+    'thrift_close' =>'Thrift Closed',
+    'thrift_date_end' =>"Thrift date ended. You can't join this Thrift.",
+    'invited_user'=>'Invited users.',
+    'invited_me_user'=>"Thrifts I am invited to",
+    'no_invited_user'=>'You have no invited user.',
+    'user_not_login'=>'Please login again.',
+    'user_have_no_invitation'=>'You have no invitations.',
+    'single_thrift_info' => 'Thrift details',
+    'short_start_date' => 'Please provide valid start date ( Start date too soon )',
+    'long_start_date' => 'Please provide valid start date ( Start date too far )',
+    'empty_email_error' => 'The Email Field is Required.',    
+    'proceed_join' => 'Please proceed and pay to join',    
+];
